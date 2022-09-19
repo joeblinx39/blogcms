@@ -1,0 +1,1 @@
+web gunicorn Blogster.wsgi:application --log-file -
